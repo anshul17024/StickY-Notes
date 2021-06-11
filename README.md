@@ -10,7 +10,7 @@ Project is live at https://bit.ly/3iuhbJU
 ## Features
 - &nbsp; You can add or delete notes.
 - &nbsp; Uses localStorage to save notes and work in offline mode as well.
-- &nbsp; As this is a PWA, you can install this project as an app on both desktop and smartphone.
+- &nbsp; As this is a PWA, you can install this project as an app on both PCs and smartphones.
 
 
 ## Author
