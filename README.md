@@ -7,7 +7,10 @@ https://user-images.githubusercontent.com/40620896/121515802-35bd9500-ca0b-11eb-
 ## Live
 Project is live at https://bit.ly/3iuhbJU 
 
-As this is a PWA, you can install this as an app on both desktop and smartphone.
+## Features
+- &nbsp; You can add or delete notes.
+- &nbsp; Uses localStorage to save notes and work in offline mode as well.
+- &nbsp; As this is a PWA, you can install this as an app on both desktop and smartphone.
 
 
 ## Author
