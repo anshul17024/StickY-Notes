@@ -12,3 +12,4 @@ As this is a PWA, you can install this as an app on both desktop and smartphone.
 
 ## Author
 Anshul Gautam
+Connect with me at <a href="https://www.linkedin.com/in/anshul007/" target="_blank"><img align="left" alt="Anshul G | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /></a> &nbsp;&nbsp;
